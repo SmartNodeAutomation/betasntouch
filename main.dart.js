@@ -82306,8 +82306,8 @@ n.aR.sh(0,!1)
 s=n.ds(2,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+1710.72)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+680.5799999999999)}if(s!==100){if(a===1){q=n.aE
+q.sh(0,q.gh(q)+7793.28)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+3100.42)}if(s!==100){if(a===1){q=n.aE
 p=s+2
 q.J(q,s,p,A.a([A.a([1,1],t.t)],t.S))
 q=n.a2
@@ -82368,8 +82368,8 @@ n.aR.sh(0,!1)
 s=n.ds(2,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+1603.62)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+632.34)}if(s!==100){if(a===1){q=n.aE
+q.sh(0,q.gh(q)+7305.38)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+2880.66)}if(s!==100){if(a===1){q=n.aE
 p=s+2
 q.J(q,s,p,A.a([A.a([1,1],t.t)],t.S))
 q=n.a2
@@ -82491,8 +82491,8 @@ n.aR.sh(0,!1)
 s=n.ds(2,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+1710.72)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+680.5799999999999)}if(s!==100){if(a===1){q=n.aE
+q.sh(0,q.gh(q)+7793.28)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+3100.42)}if(s!==100){if(a===1){q=n.aE
 p=s+2
 q.J(q,s,p,A.a([A.a([1,1],t.t)],t.S))
 q=n.a2
@@ -82552,8 +82552,8 @@ n.aR.sh(0,!1)
 s=n.ds(2,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+1603.62)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+632.34)}if(s!==100){if(a===1){q=n.aE
+q.sh(0,q.gh(q)+7305.38)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+2880.66)}if(s!==100){if(a===1){q=n.aE
 p=s+2
 q.J(q,s,p,A.a([A.a([1,1],t.t)],t.S))
 q=n.a2
@@ -82737,8 +82737,8 @@ n.aR.sh(0,!1)
 s=n.ds(2,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+1603.62)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+844.74)}if(s!==100){if(a===1){q=n.aE
+q.sh(0,q.gh(q)+7305.38)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+3848.26)}if(s!==100){if(a===1){q=n.aE
 p=s+2
 q.J(q,s,p,A.a([A.a([1,1],t.t)],t.S))
 q=n.a2
@@ -82799,8 +82799,8 @@ n.aR.sh(0,!1)
 s=n.ds(2,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+1963.26)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+958.68)}if(s!==100){if(a===1){q=n.aE
+q.sh(0,q.gh(q)+8943.74)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+4367.32)}if(s!==100){if(a===1){q=n.aE
 p=s+2
 q.J(q,s,p,A.a([A.a([1,1,1,1],t.t)],t.S))
 q=n.a2
@@ -82986,7 +82986,7 @@ n.aR.sh(0,!1)
 s=n.ds(4,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+2044.4399999999998)}else J.c(r.gh(r),"Remote")
+q.sh(0,q.gh(q)+9313.56)}else J.c(r.gh(r),"Remote")
 if(s!==100)if(a===1){q=n.aE
 p=s+4
 q.J(q,s,p,A.a([A.a([1,1,1,1],t.t)],t.S))
@@ -83049,8 +83049,8 @@ n.aR.sh(0,!1)
 s=n.ds(4,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+2250)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+1204.9199999999998)}if(s!==100)if(a===1){q=n.aE
+q.sh(0,q.gh(q)+10250)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+5489.08)}if(s!==100)if(a===1){q=n.aE
 p=s+4
 q.J(q,s,p,A.a([A.a([1,1,1,1],t.t)],t.S))
 q=n.a2
@@ -83112,8 +83112,8 @@ n.aR.sh(0,!1)
 s=n.ds(6,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+2655)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+1249.3799999999999)}if(s!==100)if(a===1){q=n.aE
+q.sh(0,q.gh(q)+12095)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+5691.62)}if(s!==100)if(a===1){q=n.aE
 p=s+6
 q.J(q,s,p,A.a([A.a([1,1,1,1,1,1,1,1],t.t)],t.S))
 q=n.a2
@@ -83237,7 +83237,7 @@ n.aR.sh(0,!1)
 s=n.ds(6,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+3186)}else J.c(r.gh(r),"Remote")
+q.sh(0,q.gh(q)+14514)}else J.c(r.gh(r),"Remote")
 if(s!==100)if(a===1){q=n.aE
 p=s+6
 q.J(q,s,p,A.a([A.a([1,1,1,1,1,1,1,1],t.t)],t.S))
@@ -83300,7 +83300,7 @@ n.aR.sh(0,!1)
 s=n.ds(6,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+3186)}else J.c(r.gh(r),"Remote")
+q.sh(0,q.gh(q)+14514)}else J.c(r.gh(r),"Remote")
 if(s!==100)if(a===1){q=n.aE
 p=s+6
 q.J(q,s,p,A.a([A.a([1,1,1,1,1,1,1,1],t.t)],t.S))
@@ -83363,8 +83363,8 @@ n.aR.sh(0,!1)
 s=n.ds(6,a)
 r=n.aG
 if(J.c(r.gh(r),"Wifi & Remote")){q=n.a_
-q.sh(0,q.gh(q)+2761.2)}else if(J.c(r.gh(r),"Remote")){q=n.a_
-q.sh(0,q.gh(q)+1376.82)}if(s!==100)if(a===1){q=n.aE
+q.sh(0,q.gh(q)+12578.8)}else if(J.c(r.gh(r),"Remote")){q=n.a_
+q.sh(0,q.gh(q)+6272.18)}if(s!==100)if(a===1){q=n.aE
 p=s+6
 q.J(q,s,p,A.a([A.a([1,1,1,1,1,1,1,1],t.t)],t.S))
 q=n.a2
@@ -84643,7 +84643,7 @@ i===$&&A.b()
 if(J.c(J.k(i,r),0))k=f
 else{i=$.B
 if(i!=null)i.u(0,k.F$)
-k=B.b.j(J.r1(J.k(k.p$,r)))}k=A.a([new A.h1(1,B.bz,new A.fX(B.b5,B.aF,B.au,B.aA,B.aw,new A.e8(),m)),new A.h1(1,B.bz,new A.fX(B.b5,B.aF,B.au,B.aA,B.aw,new A.e8(),A.a([A.eB("Pricing",B.bP),new A.dS(5,g,g),A.eB(k,A.jl(g,B.bD,g,g,g,g,g,g,g,B.bm,g,g,7,g,B.aI,g,!0,g,g,g,g))],e)))],e)
+k="\u20b9 "+J.r1(J.k(k.p$,r))}k=A.a([new A.h1(1,B.bz,new A.fX(B.b5,B.aF,B.au,B.aA,B.aw,new A.e8(),m)),new A.h1(1,B.bz,new A.fX(B.b5,B.aF,B.au,B.aA,B.aw,new A.e8(),A.a([A.eB("Pricing",B.bP),new A.dS(5,g,g),A.eB(k,A.jl(g,B.bD,g,g,g,g,g,g,g,B.bm,g,g,7,g,B.aI,g,!0,g,g,g,g))],e)))],e)
 m=p.k2
 i=$.B
 if(i!=null)i.u(0,m.F$)
@@ -85555,7 +85555,7 @@ if(j.cM()){p=j.ax.a.a
 if(p.length===0)p="1"}else p=l
 p=m.jl(a,j,p,"Quantity")
 n=j.a_
-k=A.av(A.a([k,p,m.jl(a,j,J.c(n.gh(n),0)?l:B.b.j(J.r1(n.gh(n))),"Pricing")],r),B.k,B.w,B.l)
+k=A.av(A.a([k,p,m.jl(a,j,J.c(n.gh(n),0)?l:"\u20b9 "+J.r1(n.gh(n)),"Pricing")],r),B.k,B.w,B.l)
 if(j.cM()){p=j.ay.a.a
 if(p.length===0)p=l}else p=l
 return A.aX(A.a([s,o,k,A.av(A.a([m.jl(a,j,p,"Comments")],r),B.k,B.E,B.l)],r),B.k,B.w,B.l)},
@@ -86024,7 +86024,7 @@ n=A.av(A.a([n,A.am(!1,k,!0,A.R(m===0?k:A.Z($.b4[m],s,k,k),20,20),k,!0,k,k,k,k,k,
 m=r.x
 m=A.am(!1,k,!0,A.R(m===0?k:A.Z($.b4[m],s,k,k),20,20),k,!0,k,k,k,k,k,k,k,k,k,new A.a1i(r,a,q),k,k,k,k)
 l=r.y
-h=A.R(A.aX(A.a([B.af,p,B.mh,h,B.mh,n,B.mh,A.av(A.a([m,A.am(!1,k,!0,A.R(l===0?k:A.Z($.b4[l],s,k,k),20,20),k,!0,k,k,k,k,k,k,k,k,k,new A.a1j(r,a,q),k,k,k,k)],o),B.k,B.H,B.l),B.bs,A.av(A.a([A.bE(s,k,k,5),B.aJ,A.bE(s,k,k,4.5),B.aJ,A.bE(s,k,k,4),B.aJ,A.bE(s,k,k,3.5),B.aJ,A.bE(s,k,k,3)],o),B.k,B.E,B.l),B.bs,A.av(A.a([A.Z(j,s,11.5,15.5),A.Z(i,s,11.5,15.5)],o),B.k,B.H,B.l),B.af],o),B.k,B.w,B.l),300,100)}else{h=r.c
+h=A.R(A.aX(A.a([B.af,p,B.mh,h,B.mh,n,B.mh,A.av(A.a([m,A.am(!1,k,!0,A.R(l===0?k:A.Z($.b4[l],s,k,k),20,20),k,!0,k,k,k,k,k,k,k,k,k,new A.a1j(r,a,q),k,k,k,k)],o),B.k,B.H,B.l),B.bs,A.av(A.a([A.bE(s,k,k,3),B.aJ,A.bE(s,k,k,3.5),B.aJ,A.bE(s,k,k,4),B.aJ,A.bE(s,k,k,4.5),B.aJ,A.bE(s,k,k,5)],o),B.k,B.E,B.l),B.bs,A.av(A.a([A.Z(j,s,11.5,15.5),A.Z(i,s,11.5,15.5)],o),B.k,B.H,B.l),B.af],o),B.k,B.w,B.l),300,100)}else{h=r.c
 h=A.am(!1,k,!0,A.R(h===0?k:A.Z($.b4[h],s,k,k),20,20),k,!0,k,k,k,k,k,k,k,k,k,new A.a1k(r,a,q),k,k,k,k)
 p=r.d
 o=t.D
@@ -86144,7 +86144,7 @@ p=A.av(A.a([j,A.am(!1,m,!0,A.R(p===0?m:A.Z($.b4[p],s,m,m),20,20),m,!0,m,m,m,m,m,
 j=r.e
 j=A.am(!1,m,!0,A.R(j===0?m:A.Z($.b4[j],s,m,m),20,20),m,!0,m,m,m,m,m,m,m,m,m,new A.a33(r,a,q),m,m,m,m)
 n=r.f
-j=A.R(A.aX(A.a([B.bs,p,B.Vt,A.av(A.a([j,A.am(!1,m,!0,A.R(n===0?m:A.Z($.b4[n],s,m,m),20,20),m,!0,m,m,m,m,m,m,m,m,m,new A.a34(r,a,q),m,m,m,m)],o),B.k,B.H,B.l),B.bs,A.av(A.a([A.bE(s,m,m,5),B.aJ,A.bE(s,m,m,4.5),B.aJ,A.bE(s,m,m,4),B.aJ,A.bE(s,m,m,3.5),B.aJ,A.bE(s,m,m,3)],o),B.k,B.E,B.l),B.bs,A.av(A.a([A.Z(l,s,11.5,15.5),A.Z(k,s,11.5,15.5)],o),B.k,B.H,B.l),B.bs],o),B.k,B.w,B.l),200,100)}else{j=r.c
+j=A.R(A.aX(A.a([B.bs,p,B.Vt,A.av(A.a([j,A.am(!1,m,!0,A.R(n===0?m:A.Z($.b4[n],s,m,m),20,20),m,!0,m,m,m,m,m,m,m,m,m,new A.a34(r,a,q),m,m,m,m)],o),B.k,B.H,B.l),B.bs,A.av(A.a([A.bE(s,m,m,3),B.aJ,A.bE(s,m,m,3.5),B.aJ,A.bE(s,m,m,4),B.aJ,A.bE(s,m,m,4.5),B.aJ,A.bE(s,m,m,5)],o),B.k,B.E,B.l),B.bs,A.av(A.a([A.Z(l,s,11.5,15.5),A.Z(k,s,11.5,15.5)],o),B.k,B.H,B.l),B.bs],o),B.k,B.w,B.l),200,100)}else{j=r.c
 j=A.am(!1,m,!0,A.R(j===0?m:A.Z($.b4[j],s,m,m),20,20),m,!0,m,m,m,m,m,m,m,m,m,new A.a35(r,a,q),m,m,m,m)
 p=r.d
 o=t.D
@@ -86235,7 +86235,7 @@ r=t.D
 q=this.a
 p=this.b
 if(h){h=A.av(A.a([A.Z(k,s,11.5,15.5),A.Z(j,s,11.5,15.5)],r),B.k,B.H,B.l)
-o=A.av(A.a([A.bE(s,i,i,5),B.aJ,A.bE(s,i,i,4.5),B.aJ,A.bE(s,i,i,4),B.aJ,A.bE(s,i,i,3.5),B.aJ,A.bE(s,i,i,3)],r),B.k,B.E,B.l)
+o=A.av(A.a([A.bE(s,i,i,3),B.aJ,A.bE(s,i,i,3.5),B.aJ,A.bE(s,i,i,4),B.aJ,A.bE(s,i,i,4.5),B.aJ,A.bE(s,i,i,5)],r),B.k,B.E,B.l)
 n=q.c
 n=A.am(!1,i,!0,A.R(n===0?i:A.Z($.b4[n],s,i,i),20,20),i,!0,i,i,i,i,i,i,i,i,i,new A.ag4(q,a,p),i,i,i,i)
 m=q.d
@@ -86255,7 +86255,7 @@ n=A.av(A.a([n,A.am(!1,i,!0,A.R(m===0?i:A.Z($.b4[m],s,i,i),20,20),i,!0,i,i,i,i,i,
 m=q.z
 m=A.am(!1,i,!0,A.R(m===0?i:A.Z($.b4[m],s,i,i),20,20),i,!0,i,i,i,i,i,i,i,i,i,new A.agl(q,a,p),i,i,i,i)
 l=q.Q
-h=A.R(A.aX(A.a([h,o,A.aX(A.a([n,B.yq,A.av(A.a([m,A.am(!1,i,!0,A.R(l===0?i:A.Z($.b4[l],s,i,i),20,20),i,!0,i,i,i,i,i,i,i,i,i,new A.agm(q,a,p),i,i,i,i)],r),B.k,B.H,B.l),B.bs,A.av(A.a([A.bE(s,i,i,5),B.aJ,A.bE(s,i,i,4.5),B.aJ,A.bE(s,i,i,4),B.aJ,A.bE(s,i,i,3.5),B.aJ,A.bE(s,i,i,3)],r),B.k,B.E,B.l),B.af,A.av(A.a([A.Z(k,s,11.5,15.5),A.Z(j,s,11.5,15.5)],r),B.k,B.H,B.l),B.af],r),B.k,B.w,B.l)],r),B.k,B.w,B.l),400,100)}else{h=A.aX(A.a([A.Z(k,s,11.5,15.5),A.Z(j,s,11.5,15.5)],r),B.k,B.H,B.l)
+h=A.R(A.aX(A.a([h,o,A.aX(A.a([n,B.yq,A.av(A.a([m,A.am(!1,i,!0,A.R(l===0?i:A.Z($.b4[l],s,i,i),20,20),i,!0,i,i,i,i,i,i,i,i,i,new A.agm(q,a,p),i,i,i,i)],r),B.k,B.H,B.l),B.bs,A.av(A.a([A.bE(s,i,i,3),B.aJ,A.bE(s,i,i,3.5),B.aJ,A.bE(s,i,i,4),B.aJ,A.bE(s,i,i,4.5),B.aJ,A.bE(s,i,i,5)],r),B.k,B.E,B.l),B.af,A.av(A.a([A.Z(k,s,11.5,15.5),A.Z(j,s,11.5,15.5)],r),B.k,B.H,B.l),B.af],r),B.k,B.w,B.l)],r),B.k,B.w,B.l),400,100)}else{h=A.aX(A.a([A.Z(k,s,11.5,15.5),A.Z(j,s,11.5,15.5)],r),B.k,B.H,B.l)
 o=A.aX(A.a([A.bE(s,i,i,5),B.aK,A.bE(s,i,i,4.5),B.aK,A.bE(s,i,i,4),B.aK,A.bE(s,i,i,3.5),B.aK,A.bE(s,i,i,3)],r),B.k,B.E,B.l)
 n=q.c
 n=A.am(!1,i,!0,A.R(n===0?i:A.Z($.b4[n],s,i,i),20,20),i,!0,i,i,i,i,i,i,i,i,i,new A.agn(q,a,p),i,i,i,i)
@@ -86477,7 +86477,7 @@ n=A.av(A.a([n,A.eS(a4,a1,J.c(J.k(m.gh(m),a3),"")?"1":J.k(m.gh(m),a3),c)],o),B.k,
 m=a1.id
 m=A.eS(a4,a1,J.c(J.k(m.gh(m),a3),"")?f:J.k(m.gh(m),a3),d)
 l=a1.dy
-m=A.av(A.a([m,A.eS(a4,a1,J.c(J.k(l.gh(l),a3),0)?f:B.b.j(J.r1(J.k(l.gh(l),a3))),"Pricing")],o),B.k,B.w,B.l)
+m=A.av(A.a([m,A.eS(a4,a1,J.c(J.k(l.gh(l),a3),0)?f:"\u20b9 "+J.r1(J.k(l.gh(l),a3)),"Pricing")],o),B.k,B.w,B.l)
 l=a1.k2
 l=A.av(A.a([A.eS(a4,a1,J.c(J.k(l.gh(l),a3),"")?f:J.k(l.gh(l),a3),"Module")],o),B.k,B.w,B.l)
 k=a1.fr
